@@ -1,15 +1,22 @@
-Package: com.rocketforig.new
-Version: 3.55
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Package: me.alfhaily.rocket
+Version: 3.5.5
 Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
 Filename: ./debs/rocketforig.deb
 Size: 5851158
 MD5sum: 9f5c0da8e73b9b023a2611d58fe5b853
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: New Release
-Author: Majd Alfhaily
-Depiction: https://karyx.github.io/repo/depictions/?p=com.rocketforig.new
-
+SHA1: 6f1048590e6ebd93291370e6a6810f253273eccc
+SHA256: 74ac41ef9112fc7be86a3d2b9f2a724c96e238a92dfa16f5c75ca879d2da324a
+Section: Tweaks
+Description: posts and view stories anonymously and do much more
+Author: Majd Alfhaily <support@getrocketapp.io>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
+Installed-Size: 26612
+Name: Rocket for Instagram
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: freemanrepo
 
