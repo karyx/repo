@@ -3,8 +3,14 @@
 	<name>Facebook++</name>
 	<version>1.6r-28</version>
 	<compatibility>
-		<firmware>
 			<miniOS>5.0</miniOS>
+					</firmware>
+			<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/karyxrepo</url>
+		</link>
+	</links>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -16,11 +22,4 @@
 		<description>Facebook ++ has been built to let you experience the Facebook app your way, without having to follow the rules that Facebook lays out for you.</description>
 
 	</descriptionlist>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>

@@ -19,7 +19,21 @@ Filename: ./debs/facebookplusplus.deb
 Size: 1835432
 MD5sum: 9f237bb081a4edaf97f43ea0beae4dc2
 Section: ++ Tweaks
-Description: Floatydock 
-Author: Majd Alfhaily <support@getrocketapp.io>
+Description: FB++
+Author: UnlimApps Inc.
 Depiction: https://karyx.github.io/repo/depictions/?p=com.facebookplusplus.new
 Name: Facebook++
+
+Package: com.instagramplusplus.new
+Version: 1.8r-275
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Filename: ./debs/instagramplusplus.deb
+Size: 9520620
+MD5sum: 05f021c85b7e5bb30fc179a9fcdb8db8
+Section: ++ Tweaks
+Description: IG++ 
+Author: UnlimApps Inc.
+Depiction: https://karyx.github.io/repo/depictions/?p=com.instagramplusplus.new
+Name: Instagram++
+
