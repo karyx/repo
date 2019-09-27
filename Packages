@@ -11,7 +11,7 @@ SHA256: 74ac41ef9112fc7be86a3d2b9f2a724c96e238a92dfa16f5c75ca879d2da324a
 Section: Tweaks
 Description: posts and view stories anonymously and do much more
 Author: Majd Alfhaily <support@getrocketapp.io>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Depiction: https://karyx.github.io/repo/depictions/?p=com.rocketforig.new
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
 Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
 Installed-Size: 26612
