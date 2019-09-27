@@ -1,17 +1,11 @@
 <package>
 	<id>com.instagramplusplus.new</id>
 	<name>Instagram++</name>
-	<version>1.8r-275</version>
+	<version>1.6r-28</version>
 	<compatibility>
+		<firmware>
 			<miniOS>5.0</miniOS>
 		</firmware>
-			<links>
-		<link>
-			<name>Twitter</name>
-			<url>https://www.twitter.com/karyxrepo</url>
-		</link>
-	</links>
-	<firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
@@ -19,5 +13,12 @@
 	<shortDescription>IG ++ - The Best Instagram tweak!</shortDescription>
 	<descriptionlist>
 		<description>Instagram ++ - The Instagram tweak that makes Instagram easier and more convenient to use, allows photo/video downloads and sharing, and improves on the Instagram interface.</description>
+		
 	</descriptionlist>
+		<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/karyx</url>
+		</link>
+	</links>
 </package>
