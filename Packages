@@ -1,0 +1,25 @@
+Package: com.floatydock.new
+Version: 1.5
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.creaturesurvive.libcscolorpicker
+Filename: ./debs/floatydock.deb
+Size: 70024
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
+Section: Tweaks
+Description: Floatydock 
+Author: Majd Alfhaily <support@getrocketapp.io>
+Depiction: https://karyx.github.io/repo/depictions/?p=com.floatydock.new
+Name: FloatyDock
+
+Package: com.facebookplusplus.new
+Version: 1.6r-28
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate, com.unlimapps.uasharedtools (>= 2.1r-64)
+Filename: ./debs/facebookplusplus.deb
+Size: 1835432
+MD5sum: 9f237bb081a4edaf97f43ea0beae4dc2
+Section: ++ Tweaks
+Description: Floatydock 
+Author: Majd Alfhaily <support@getrocketapp.io>
+Depiction: https://karyx.github.io/repo/depictions/?p=com.facebookplusplus.new
+Name: Facebook++
