@@ -1,0 +1,26 @@
+<package>
+	<id>com.facebookplusplus.new</id>
+	<name>Facebook++</name>
+	<version>1.6r-28</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>FB ++ - The Best facebook tweak!</shortDescription>
+	<descriptionlist>
+		<description>FB ++ - The Facebook tweak that alloews you to turn off read receipts, use the in-app messaenger, save/download vidoes and many more!</description>
+		<description>Facebook ++ has been built to let you experience the Facebook app your way, without having to follow the rules that Facebook lays out for you.</description>
+
+	</descriptionlist>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
