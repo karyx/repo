@@ -7,18 +7,6 @@
 			<miniOS>5.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<shortDescription>IG ++ - The Best Instagram tweak!</shortDescription>
-	<descriptionlist>
-		<description>Instagram ++ - The Instagram tweak that makes Instagram easier and more convenient to use, allows photo/video downloads and sharing, and improves on the Instagram interface.</description>
-		
-	</descriptionlist>
-		<links>
-		<link>
-			<name>Twitter</name>
-			<url>https://www.twitter.com/karyx</url>
-		</link>
-	</links>
+
 </package>
