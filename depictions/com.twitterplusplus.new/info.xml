@@ -1,0 +1,12 @@
+<package>
+	<id>com.twitterplusplus.new</id>
+	<name>Twitter++</name>
+	<version>1.2r-82</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>T ++ - The Best Twitter tweak!</shortDescription>
+
+</package>

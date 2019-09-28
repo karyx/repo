@@ -1,0 +1,12 @@
+<package>
+	<id>com.messengerplusplus.new</id>
+	<name>Messenger++</name>
+	<version>1.0r-68</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>M ++ - The Best Messenger tweak!</shortDescription>
+
+</package>
