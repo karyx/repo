@@ -1,0 +1,12 @@
+<package>
+	<id>theme.muze4.new</id>
+	<name>Muze 4</name>
+	<version>1.04</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Muze 4 - Beautiful snowboard theme!</shortDescription>
+
+</package>

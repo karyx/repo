@@ -75,3 +75,18 @@ Description: YT++
 Author: UnlimApps Inc.
 Depiction: https://karyx.github.io/repo/depictions/?p=com.youtubeplusplus.new
 Name: Youtube++
+
+Package: theme.muze4.new
+Version: 1.04
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Filename: ./debs/muze4.deb
+Size: 27713240
+MD5sum: 45db68e732e6201ba49f178af81af74c
+Section: Addons (Themes)
+Description: Muze 4 
+Author: Kogulan (Purdix)
+Depiction: https://karyx.github.io/repo/depictions/?p=theme.muze4.new
+Name: Muze 4
+
+
