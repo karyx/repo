@@ -49,3 +49,29 @@ Description: M++
 Author: UnlimApps Inc.
 Depiction: https://karyx.github.io/repo/depictions/?p=com.messengerplusplus.new
 Name: Messenger++
+
+Package: com.whatsappplusplus.new
+Version: 1.6r-105
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.unlimapps.uasharedtools (>= 2.2r-76)
+Filename: ./debs/whatsappplusplus.deb
+Size: 2682784
+MD5sum: d9919e02d797afbc58d56085676070a2
+Section: ++ Tweaks
+Description: WA++ 
+Author: UnlimApps Inc.
+Depiction: https://karyx.github.io/repo/depictions/?p=com.whatsappplusplus.new
+Name: Whatsapp++
+
+Package: com.youtubeplusplus.new
+Version: 1.4r-103
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 7.0),com.unlimapps.uamediaexporthelper (>= 1.0r-15) | firmware (>= 10.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Filename: ./debs/youtubeplusplus.deb
+Size: 6790798
+MD5sum: b4446be7fee75afb88ec9519afaed3a8
+Section: ++ Tweaks
+Description: YT++ 
+Author: UnlimApps Inc.
+Depiction: https://karyx.github.io/repo/depictions/?p=com.youtubeplusplus.new
+Name: Youtube++

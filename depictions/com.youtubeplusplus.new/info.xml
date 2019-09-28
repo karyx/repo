@@ -1,0 +1,12 @@
+<package>
+	<id>com.youtubeplusplus.new</id>
+	<name>Youtube++</name>
+	<version>1.4r-103</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>YT ++ - The Best Youtube tweak!</shortDescription>
+
+</package>
